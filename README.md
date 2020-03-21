@@ -1,1 +1,1 @@
-# logicallanguages.github.io
+# logical-languages.org
